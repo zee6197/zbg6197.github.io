@@ -1,1 +1,17 @@
-p { color: red; }
+p {
+    color: red;
+}
+
+
+body {
+    background-color: #121212;  /* Dark background color */
+    color: #EAEAEA;             /* Light text color */
+}
+
+
+footer {
+    margin-top: 2rem;          /* Provides space above the footer */
+    padding: 1rem;             /* Provides some space inside the footer */
+    background-color: #202020; /* Slightly different dark shade for contrast */
+    text-align: center;        /* Centers the text within the footer */
+}
